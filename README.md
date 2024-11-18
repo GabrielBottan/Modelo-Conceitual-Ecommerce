@@ -27,3 +27,6 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 - No caso de Pagamento a entidade esta atribuída a outras duas entidades afim de detalhar as formas de pagamento : Cartão e Boleto.
 - Entrega foi criada para armazenar as informações de envio de cada pedido detalhar como data do pedido, data de envio e data de entrega.
 
+
+
+##Certificado:![Captura de tela 2024-11-18 181736](https://github.com/user-attachments/assets/4456fb4d-6686-42d6-9fa3-9e2d59113692)

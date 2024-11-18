@@ -20,6 +20,10 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 
 
-Resultado:
+##Resultado:
+![Captura de tela 2024-11-18 174537](https://github.com/user-attachments/assets/97a9d843-09c5-4a4a-b803-4ed9123e246d)
 
+- Para a entidade Cliente foram criadas duas novas entidades PJ_Pessoa Juridica e PF_Pessoa Fisica contendo as informações de CNPJ e CPF.
+- No caso de Pagamento a entidade esta atribuída a outras duas entidades afim de detalhar as formas de pagamento : Cartão e Boleto.
+- Entrega foi criada para armazenar as informações de envio de cada pedido detalhar como data do pedido, data de envio e data de entrega.
 
